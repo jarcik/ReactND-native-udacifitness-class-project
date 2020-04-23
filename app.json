@@ -1,17 +1,5 @@
 {
-  "name": "ReactND-native-class-project",
-  "displayName": "ReactND-native-class-project",
   "expo": {
-    "name": "ReactND-native-class-project",
-    "slug": "ReactND-native-class-project",
-    "version": "1.0.0",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "sdkVersion": "20.0.0"
   }
 }
